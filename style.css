@@ -1,0 +1,351 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.sec-1{
+    display: flex;
+    /* background-color: #FFFEFE; */
+}
+.img1{
+    margin-left: 10%;
+}
+.fa-phone{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: -10%;
+    color: #F49E22;
+}
+.sec-1 h3{
+    margin-left: 15%;
+    font-size: 25px;
+    color: #214F3D;
+}
+.sec-1 p{
+    margin-top: 80px;
+    margin-left: -22%;
+    color: #F9C02D;
+}
+.sec-2{
+    height: 20%;
+   display: flex;
+}
+nav{
+    width: 100%;
+    background-color: #214F3D;
+}
+nav :hover{
+    color: orange;
+}
+nav ul{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    margin-left: 60px;
+    color: white;
+     
+}
+nav ul li {
+    list-style: none;
+    padding: 20px;
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+.sec3{
+    background-image: url("");
+    background-size: cover;
+}
+.sec-4{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    
+}
+.sec-4 h1{
+    color: #214F3D;
+    
+}
+.sec-4 p{
+    color: #595C74;
+}
+.sec-4 button{
+    padding: 20px;
+    background-color: white;
+    border: 2px solid orange;
+    color: orange;
+    width: 15%;
+}
+.sec-4 button:hover{
+    background-color: orange;
+    color: white;
+}
+.fa-align-left{
+    background-color: white;
+    padding: 50px;
+    font-size: 40px;
+    border-radius: 50%;
+    margin-left: -20%;
+    margin-bottom: -20px;
+}
+.sec-5{
+    display: flex;
+    padding: 30px;
+}
+.what{
+    text-align: center;
+    color: #214F3D;
+}
+/* .sec-5 p{
+    text-align: justify;
+    font-size: 25px;
+     margin-left: 90px;
+     margin-top: 6%;
+} */
+.img3{
+    padding: 20px;
+    margin-left: 20px;
+    transition: all500ms ease-in-out;
+
+
+}
+.img3 .fa-align-left{
+    background-color: white;
+    margin-left: -240px;
+    margin-top: 50%;
+}
+.img3 h3{
+    text-align: justify;
+    font-size: 25px;
+     margin-left: 0px;
+     color: #E8A620;
+     margin-top: 6%;
+}
+.img3 p{
+    font-size: 19px;
+}
+.img3 img :hover{
+    color: white;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.img4{
+    padding: 20px;
+    margin-left: 70px; 
+}
+.img4 .fa-align-left{
+    background-color: white;
+    margin-left: -240px;
+    margin-top: 50%;
+}
+.img4 h3{
+    text-align: justify;
+    font-size: 25px;
+     margin-left: 40%;
+     color: #E8A620;
+     margin-top: 6%;
+}
+.img4 p{
+    font-size: 19px; 
+    margin-left: 40px; 
+}
+
+.img5{
+    padding: 20px;
+    margin-left: 70px; 
+}
+.img5 .fa-align-left{
+    background-color: white;
+    margin-left: -240px;
+    margin-top: 50%;
+}
+.img5 h3{
+    text-align: justify;
+    font-size: 25px;
+     margin-left: 20%;
+     color: #E8A620;
+     margin-top: 6%;
+}
+.img5 p{
+    font-size: 19px; 
+    margin-left: 40px; 
+}
+.goals{
+    font-size: 25px;
+    display: flex;
+    margin-top: -50%;
+    color: white;
+    margin-left: 25%;
+}
+.fa-angle-right{
+    font-size: 70px;
+    margin-left: -20%;
+    margin-top: -10%;
+}
+.vision{
+    margin-left: -250px;
+    padding: 30px;
+    font-size: 30px;
+}
+.vision h1{
+    color:#76A10D;
+    
+}
+.vision p:hover{
+    color: orange;
+    
+}
+.values{
+    padding: 30px;
+    font-size: 30px;
+}
+.values h1{
+    color:#76A10D;
+}
+.values p:hover{
+    color: orange;
+    
+}
+.Goals{
+    padding: 40px;
+    font-size: 30px;
+}
+.Goals h1{
+    color:#76A10D;
+}
+.Goals p:hover{
+    color: orange;
+    
+}
+.sec-7{
+    margin-bottom: -20%;
+    background-color: #F1EDE9;
+}
+.Cheflik{
+    padding: 40px;
+    margin-top: 10%;
+    margin-left: 9%;
+}
+.sec-7 h1{
+    font-size: 40px;
+    color: #214F3D;
+    margin-left: 50px;
+
+}
+.Cheflik p{
+    padding: 5px;
+    font-size: 20px;
+
+}
+.img10{
+    float: right;
+    margin-top: -45%;
+    margin-right: 6%;
+}
+.sec-7 button{
+    padding: 20px;
+    float: right;
+    margin-top: -25%;
+    margin-right: 20%;
+    background-color: orange;
+    border: none;
+    width: 15%;
+    color: white;
+}
+.sec-7 button:hover{
+    background-color: rgb(212, 155, 47);
+  
+}
+.fas{
+    color: orange;
+   
+}
+/* .img6{
+    opacity: 30;
+} */
+.sec-8{
+    margin-top: 25%;
+    text-align: center;
+}
+.sec-8 button{
+    padding: 20px;
+}
+.sec-8 h1{
+    font-size: 40px;
+    color: #214F3D;
+}
+.all{
+    background-color: orange;
+    border: none;
+    padding: 20px;
+    margin-left:-20px;
+    border-radius: 5px;
+    color: white;
+}
+.food{
+    
+    border: none;
+    color: orange;
+    background-color: white;
+}
+.food:hover{
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+}
+.gallery{
+    display: flex;
+    margin-left: 3%;
+    padding: 20PX;
+}
+.gal1{
+    padding: 20px;
+}
+.gal1:hover{
+  /* background: transparent; */
+   opacity: 0.5;
+   
+}
+.gal2{
+    padding: 20px;
+}
+.gal3{
+    padding: 20px;
+}
+.load{
+    color: orange;
+    padding: 30px;
+    width: 15%;
+    background-color: white;
+    border: 2px solid orange;
+}
+.load:hover{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+
+}
+.sec-10{
+    display: flex;
+}
+.About{
+margin-left: 10%;
+}
+.fa-map-marker-alt{
+}
+/* .quotation{
+    height: 50%;
+    padding: 30px;
+    margin-top: 20%;
+    margin-top: 20%;
+    background-color: #E7A520;
+} */
+/* .img3-inside img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.img3-inside img{
+    transition: all800ms ease-out;
+} */
